@@ -1,0 +1,5 @@
+ultralytics
+keyboard
+pydirectinput
+mss
+opencv-python
